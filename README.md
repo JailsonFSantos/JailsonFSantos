@@ -1,4 +1,4 @@
-### Ola! Me chamo Jailson, sou desenvolvedor Jr em constante apredizado! 🔭⚡
+### Ola! Me chamo Jailson, sou desenvolvedor em constante apredizado! 🔭⚡
 
 <div align="center">
   <a href="https://github.com/JailsonFSantos">
